@@ -1,0 +1,4 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}\\.venv\\extension-lectures\\Scripts\\python.exe",
+    "files.autoGuessEncoding": true
+}

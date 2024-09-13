@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "humao.rest-client",
+        "bierner.markdown-mermaid",
+        "ms-python.python",
+        "ms-toolsai.jupyter"
+    ]
+}
